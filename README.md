@@ -1,5 +1,3 @@
 # BOARA
-NullPointException
-# development tool 
-java / tomcat / eclipse / oracle / jquery / javascript / css / html
+웹툰/웹소설 플랫폼
 
