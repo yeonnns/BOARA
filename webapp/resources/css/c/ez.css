@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+/* 리스트&상세 페이지 폼 */
+.collbox{
+	width: 1000px;
+	height: 200px;
+	display: inline-block;
+}
+.colldetail{
+	width: 700px;
+	height: 200px;
+	display: inline-block;
+}
+.colltit{
+	font-size: 24pt;
+}
+.thumbbox{
+	display: inline-block;
+	width: 184px;
+	height: 184px;
+}
+.noti{
+	width: 50px;
+	height: 30px;
+	background-color: gray;
+	color: white;
+	font-weight: bold;
+	display: inline-block;
+	margin-top:25px;
+	margin-right: 5px;
+	padding-top: 3px;
+}
+.genre{
+	padding: 5px;
+	max-width: 100px;
+	height: 30px;
+	background-color: gray;
+	color: white;
+	font-weight: bold;
+	display: inline-block;
+	margin-left: 10px;
+	padding-top: 3px;
+}
+
+/* width&height */
+.w700{
+	width: 700px;
+}
+.w900{
+	width: 900px;
+}
+
+/* color */
+.boablue{
+	background-color:#20459E;
+	color:white;
+}
+
+/* align */
+.left{
+	text-align:left;
+}
+
+/* 이미지 */
+.thumb{
+	width: 148px;
+	height: auto;
+}
+.thbox{
+	margin-top: 15px;
+	width: 148px;
+	height: 148px;
+	overflow: hidden;
+	border: 1px solid gray;
+	display: inline-block;
+}
+.like{
+	width:25px;
+	height:25px;
+}
+
+/* 속성 */
+.inline{
+	display:inline-block;
+}
+.blk{
+	display:block;
+}
+
+/* margin */
+.mgt10{
+	margin-top:10px;
+}
+.mgl10{
+	margin-left:10px;
+}
+.nomg{
+	margin:0px;
+}
